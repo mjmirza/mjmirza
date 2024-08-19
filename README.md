@@ -18,7 +18,7 @@ I am a Fullstack Web Developer, Cloud Expert, and End-to-End Delivery Specialist
 ## 🛠️ Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,docker,kubernetes,jenkins,aws,azure,gcp,tensorflow,pytorch,flask,fastapi,express,graphql,typescript,java,cpp,go,rust,redis,mysql,postgresql,mongodb,nextjs,nuxtjs,vercel,linux,vscode,figma,ai,terraform,ansible,selenium,nginx,spring,netlify,tailwind,bootstrap,sass,webpack,vue,dynamodb,firebase,flask,flutter,gitlab,js,md,nginx,openshift,openstack,ps,postman,redis, redhat,regex,supabase,scala,tensorflow,ts,ubuntu,vercel,vim,vitest,worpress,xd,django&theme=dark" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,docker,kubernetes,jenkins,aws,azure,gcp,tensorflow,pytorch,flask,fastapi,express,graphql,typescript,java,cpp,go,rust,redis,mysql,postgresql,mongodb,nextjs,nuxtjs,vercel,linux,vscode,figma,ai,terraform,ansible,selenium,netlify,tailwind,bootstrap,sass,webpack,vue,dynamodb,firebase,flask,flutter,gitlab,js,md,nginx,openshift,openstack,ps,postman,redis, redhat,regex,supabase,scala,tensorflow,ts,ubuntu,vercel,vim,vitest,worpress,xd,django&theme=dark" alt="My Skills">
 </div>
 
 
