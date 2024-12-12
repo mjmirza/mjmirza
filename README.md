@@ -1,7 +1,8 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=141e44&center=true&vCenter=true&width=900&height=120&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mirza!;Fullstack+Web+Developer+%7C+Cloud+Expert;Mastering+AWS%2C+Azure%2C+GCP;End-to-End+Delivery+Specialist;Building+Futuristic+Web+and+Cloud+Experiences" alt="Typing SVG">
 </p>
-
+<!--
 I am a Fullstack Web Developer, Cloud Expert, and End-to-End Delivery Specialist. I excel in mastering AWS, Azure, and GCP, and I am also a Fullstack AI, LLM, and Generative AI Developer. Passionate about bringing ideas to life, I specialize in building futuristic web and cloud experiences.
 
 
