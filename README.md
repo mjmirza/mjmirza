@@ -39,7 +39,7 @@ I'm proficient in a wide range of technologies, from front-end to back-end and e
 ---
 
 ### 📫 Let's Collaborate!
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&color=24292e&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+stopping+by!+😊;Feel+free+to+explore+my+projects+💻;Let's+connect+and+collaborate!+🚀" alt="Typing SVG">
-</p>
+
+Let's+connect+and+collaborate!
+support@mirzaiqbal.com
 ---
