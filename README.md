@@ -24,7 +24,7 @@ I'm a **Fullstack Web Developer, Cloud Expert, and End-to-End Delivery Specialis
 I'm proficient in a wide range of technologies, from front-end to back-end and everything in between.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,docker,kubernetes,jenkins,aws,azure,gcp,tensorflow,pytorch,flask,fastapi,express,graphql,typescript,java,cpp,go,rust,redis,mysql,postgresql,mongodb,nextjs,nuxtjs,vercel,linux,vscode,figma,ai,terraform,ansible,selenium,netlify,tailwind,bootstrap,sass,webpack,vue,dynamodb,firebase,flutter,gitlab,nginx,openshift,openstack,postman,supabase,scala,ts,ubuntu,vercel,vim,vitest,wordpress,xd,django,shadcn,flowbite&theme=light" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=typescript,js,html,css,n8n,react,nodejs,python,git,github,docker,kubernetes,azure,gcp,fastapi,express,java,rust,redis,mysql,postgresql,mongodb,nextjs,vercel,linux,vscode,figma,ai,terraform,ansible,tailwind,sass,webpack,gitlab,nginx,openshift,openstack,postman,supabase,ts,ubuntu,vercel,vim,wordpress,xd,django,shadcn,flowbite&theme=light" alt="My Skills">
 </div>
 
 ---
