@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=141e44&center=true&vCenter=true&width=900&height=120&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mirza!;Fullstack+Web+Developer+%7C+Cloud+Expert;Mastering+AWS%2C+Azure%2C+GCP;End-to-End+Delivery+Specialist;Building+Futuristic+Web+and+Cloud+Experiences" alt="Typing SVG">
 </p>
 
+Helping Enterprises with AI, LLM, Automations, Data, and Cloud Infrastructure | V0 & n8n Ambassador
+
 I'm a **Fullstack Web Developer, Cloud Expert, and End-to-End Delivery Specialist**. I excel in mastering **AWS, Azure, and GCP**, and I'm also a **Fullstack AI, LLM, and Generative AI Developer**. Passionate about bringing ideas to life, I specialize in building futuristic web and cloud experiences.
 
 ---
@@ -25,15 +27,6 @@ I'm proficient in a wide range of technologies, from front-end to back-end and e
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=typescript,js,html,css,react,nodejs,python,git,github,docker,kubernetes,azure,gcp,fastapi,express,java,rust,redis,mysql,postgresql,mongodb,nextjs,vercel,linux,vscode,figma,ai,terraform,ansible,tailwind,sass,webpack,gitlab,nginx,openshift,openstack,postman,supabase,ts,ubuntu,vercel,vim,wordpress,xd,django,shadcn,flowbite&theme=light" alt="My Skills">
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjmirza&layout=compact&theme=gotham" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mjmirza&show_icons=true&theme=gotham" alt="GitHub Stats" />
 </div>
 
 ---
