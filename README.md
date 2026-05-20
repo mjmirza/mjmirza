@@ -28,18 +28,3 @@ I'm proficient in a wide range of technologies, from front-end to back-end and e
 <div align="center">
   <img src="https://skillicons.dev/icons?i=typescript,js,html,css,react,nodejs,python,git,github,docker,kubernetes,azure,gcp,fastapi,express,java,redis,mysql,postgresql,mongodb,nextjs,vercel,linux,vscode,figma,terraform,tailwind,sass,gitlab,nginx,openshift,postman,supabase,ubuntu,vim,wordpress,shadcn,flowbite&theme=light" alt="My Skills">
 </div>
-
----
-
-### 🚀 Featured Projects
-
-- [**Download-VSIX-From-Visual-Studio-Market-Place**](https://github.com/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place) - A handy script that allows you to download VS Code extensions as VSIX files directly from the marketplace.
-- [**KVR-Munich**](https://github.com/mjmirza/KVR-Munich) - A Python script for automating appointment bookings with KVR in Munich.
-
----
-
-### 📫 Let's Collaborate!
-
-Let's+connect+and+collaborate!
-support@mirzaiqbal.com
----
