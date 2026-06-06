@@ -1,46 +1,50 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=900&color=24292E&center=true&vCenter=true&width=920&height=120&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mirza!;n8n+Ambassador+and+Verified+Expert+Partner;Clay+Creator+%7C+v0+Ambassador+%7C+Mastra+Agent+Ambassador;I+help+DACH+enterprises+ship+automation+that+pays+for+itself;Claude+Code+and+n8n+training+for+teams" alt="Mirza Iqbal">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=900&color=24292E&center=true&vCenter=true&width=940&height=120&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mirza!;I+build+automation+and+AI+agents+in+the+open;n8n+Ambassador+and+Verified+Expert+Partner;Clay+Creator+%7C+v0+Ambassador+%7C+Mastra+Agent+Ambassador;Claude+Partner+Network+and+Twilio+Partner;Patterns+that+survive+production%2C+minus+the+hype" alt="Mirza Iqbal">
 </p>
 
 <p align="center">
   <a href="https://next8n.com"><img src="https://img.shields.io/badge/next8n.com-EA4B71?style=for-the-badge&logoColor=white" alt="next8n"></a>
-  <a href="https://www.joinleland.com/coach/mirza-i"><img src="https://img.shields.io/badge/Book%20a%20session-Leland-EA4B71?style=for-the-badge&logoColor=white" alt="Book a session"></a>
-  <a href="https://www.linkedin.com/in/mirzajhanzaib/"><img src="https://img.shields.io/badge/LinkedIn-Connect-24292E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/mirzajhanzaib"><img src="https://img.shields.io/badge/X-Follow-24292E?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.joinleland.com/coach/mirza-i"><img src="https://img.shields.io/badge/Book%20a%20session-F08C2E?style=for-the-badge&logoColor=white" alt="Book a session"></a>
+  <a href="https://www.linkedin.com/in/mirzajhanzaib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/mirzajhanzaib"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <img src="https://komarev.com/ghpvc/?username=mjmirza&label=Profile%20views&color=EA4B71&style=for-the-badge" alt="Profile views">
 </p>
+
+<p align="center"><b>Follow for automation and AI agent patterns that survive production, built in the open and shared without the hype.</b></p>
 
 <h3 align="center">Most enterprise automation breaks the moment it meets the real world. I build the kind that does not.</h3>
 
 <p align="center">
-Sixteen years shipping software and automation for companies where one broken workflow costs real money. I turn manual, error-prone processes into systems a team can trust, and I teach teams to do it themselves with n8n and Claude Code.
+17+ years building software and automation for teams of every size, from solo founders to enterprises. I turn manual, error-prone processes into systems a team can trust, I build agent frameworks and Claude Code tooling, and I share what works so other people can skip the expensive lessons.
 </p>
 
 ## Credentials that are hard to fake
 
-Four platform teams independently picked me to represent their product. That is the part of a resume you cannot write yourself.
+Several platform teams independently picked me to represent their product, and two more brought me into their partner network. That is the part of a resume you cannot write yourself.
 
 <p>
   <img src="https://img.shields.io/badge/n8n-Ambassador%20%2B%20Verified%20Expert%20Partner-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
   <img src="https://img.shields.io/badge/Clay-Creator-EA4B71?style=flat-square" alt="Clay Creator">
   <img src="https://img.shields.io/badge/Vercel%20v0-Ambassador-EA4B71?style=flat-square&logo=vercel&logoColor=white" alt="v0 Ambassador">
   <img src="https://img.shields.io/badge/Mastra-Agent%20Ambassador-EA4B71?style=flat-square" alt="Mastra Agent Ambassador">
+  <img src="https://img.shields.io/badge/Claude-Partner%20Network-EA4B71?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Partner Network">
+  <img src="https://img.shields.io/badge/Twilio-Partner-EA4B71?style=flat-square&logo=twilio&logoColor=white" alt="Twilio Partner">
 </p>
 
 ## What I do
 
 | Focus | What that means for you |
 |---|---|
-| Enterprise automation | I design and ship n8n systems for DACH companies. Scoped, documented, and built to survive an audit. |
-| Team training | Hands-on Claude Code and n8n workshops. Your engineers leave able to build it themselves, not watch from the back row. |
-| Building in public | 95 public repositories and growing. The tools and frameworks I reach for in real client work. |
+| Automation systems | I design and ship n8n and AI agent systems. Scoped, documented, and built to survive a real audit. |
+| Team training | Hands-on Claude Code and n8n workshops. Your team leaves able to build it themselves, not watch from the back row. |
+| Building in the open | Tools, frameworks, and patterns I share so you do not have to learn them the hard way. |
 
 ## Track record
 
-- 16 years across enterprises including Accenture, Capco, Deutsche Bahn, BMW, and Telekom Deutschland
-- Over 5.5M euro in documented operational savings from automation work
+- 17+ years building across enterprises including Accenture, Capco, Deutsche Bahn, BMW, and Telekom Deutschland
+- Automation work measured in seven-figure operational savings
 - Speaker at W-JAX Munich, and host of the Frankfurt and Munich n8n meetups
-- Based in Frankfurt, working with teams across the DACH region and beyond
+- Working with teams from solo founders to enterprises, across the DACH region and beyond
 
 ## Featured work
 
@@ -56,25 +60,28 @@ Four platform teams independently picked me to represent their product. That is 
 ## How I build
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,nextjs,react,tailwind,postgres,supabase,docker,vercel,gcp,azure&theme=light" alt="Stack">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,swift,react,tailwind,nodejs,postgres,mysql,mongodb,supabase,redis,docker,kubernetes,gcp,azure,vercel,terraform&theme=light&perline=9" alt="Stack">
 </p>
 
-n8n for orchestration. Claude Code and the Anthropic stack for agents. TypeScript and Next.js on the front. Python where the data lives. Postgres and Supabase underneath.
+n8n for orchestration. Claude Code and the Anthropic stack for agents. TypeScript and React on the web. Python for data and automation. Swift when it needs to live on iOS. Postgres and Supabase underneath, shipped on Vercel and the major clouds.
 
-## By the numbers
+## What I build
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mjmirza&show_icons=true&hide_border=true&title_color=EA4B71&icon_color=EA4B71&include_all_commits=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjmirza&layout=compact&hide_border=true&title_color=EA4B71&langs_count=8" alt="Top languages">
+Day to day I build agent frameworks, Claude Code tooling, and automation systems. Some of it ships as open source, some lives inside client work, and the lessons from both end up in what I share.
+
+<p>
+  <img src="https://img.shields.io/github/stars/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place?style=flat-square&color=EA4B71&label=stars%20on%20one%20tool" alt="Stars on one tool">
+  <img src="https://img.shields.io/github/followers/mjmirza?style=flat-square&color=EA4B71&label=followers" alt="Followers">
+  <img src="https://img.shields.io/badge/On%20GitHub%20since-2017-EA4B71?style=flat-square" alt="On GitHub since 2017">
 </p>
 
 ## Where to start
 
-AI moves faster than any team can staff for, and most of the noise is not worth chasing. If your team is buried in manual steps, or trying to work out where automation and AI genuinely fit, that is the gap I work in.
+AI moves faster than any team can staff for, and most of the noise is not worth chasing. If your team is buried in manual steps, or working out where automation and AI genuinely fit, here is the short path.
 
 - Start free. The AI Workflow Delivery Framework above is open and yours to use today.
-- Train your team. Claude Code and n8n workshops, on-site or remote. [Book a session](https://www.joinleland.com/coach/mirza-i).
-- Build with next8n. Enterprise automation, scoped and delivered.
+- Learn it. Claude Code and n8n workshops, on-site or remote. [Book a session](https://www.joinleland.com/coach/mirza-i).
+- Go further. If your team wants to move faster with automation, that is what I do at next8n.
 
 [next8n.com](https://next8n.com) | [Book a session](https://www.joinleland.com/coach/mirza-i) | [LinkedIn](https://www.linkedin.com/in/mirzajhanzaib/) | [X](https://twitter.com/mirzajhanzaib)
 
