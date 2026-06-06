@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://next8n.com"><img src="https://img.shields.io/badge/next8n.com-EA4B71?style=for-the-badge&logoColor=white" alt="next8n"></a>
   <a href="https://www.joinleland.com/coach/mirza-i"><img src="https://img.shields.io/badge/Book%20a%20session-F08C2E?style=for-the-badge&logoColor=white" alt="Book a session"></a>
   <a href="https://www.linkedin.com/in/mirzajhanzaib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/mirzajhanzaib"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
