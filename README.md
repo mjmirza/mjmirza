@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=900&color=24292E&center=true&vCenter=true&width=920&height=120&lines=Mirza+Iqbal;n8n+Ambassador+and+Verified+Expert+Partner;Clay+Creator+%7C+v0+Ambassador+%7C+Mastra+Agent+Ambassador;I+help+DACH+enterprises+ship+automation+that+pays+for+itself;Claude+Code+and+n8n+training+for+teams" alt="Mirza Iqbal">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=900&color=24292E&center=true&vCenter=true&width=920&height=120&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mirza!;n8n+Ambassador+and+Verified+Expert+Partner;Clay+Creator+%7C+v0+Ambassador+%7C+Mastra+Agent+Ambassador;I+help+DACH+enterprises+ship+automation+that+pays+for+itself;Claude+Code+and+n8n+training+for+teams" alt="Mirza Iqbal">
 </p>
 
 <p align="center">
