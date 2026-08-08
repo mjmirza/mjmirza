@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=900&color=24292E&center=true&vCenter=true&width=940&height=120&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mirza!;I+build+automation+and+AI+agents+in+the+open;Claude+Code+tooling+that+survives+production;n8n+systems+a+team+can+actually+audit;Patterns+that+survive+production%2C+minus+the+hype" alt="Mirza Iqbal">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=900&color=24292E&center=true&vCenter=true&width=940&height=120&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mirza!;I+build+automation+and+AI+agents+in+the+open;n8n+Ambassador+and+Verified+Expert+Partner;Clay+Creator+%7C+v0+Ambassador+%7C+Mastra+Agent+Ambassador;Claude+Partner+Network+and+Twilio+Partner;Patterns+that+survive+production%2C+minus+the+hype" alt="Mirza Iqbal">
 </p>
 
 <p align="center">
@@ -14,17 +14,15 @@
 <h3 align="center">Most enterprise automation breaks the moment it meets the real world. I build the kind that does not.</h3>
 
 <p align="center">
-Writing software full time since 2011, alongside a BSc and then a Master's at the University of Passau. Enterprise delivery in Germany and the UK since 2018. I turn manual, error-prone processes into systems a team can trust, I build agent frameworks and Claude Code tooling, and I share what works so other people can skip the expensive lessons.
+17+ years building software and automation for teams of every size, from solo founders to enterprises. I turn manual, error-prone processes into systems a team can trust, I build agent frameworks and Claude Code tooling, and I share what works so other people can skip the expensive lessons.
 </p>
 
 ## What I build in the open
 
-Start with whichever one matches the problem in front of you. Every one is free and needs no account.
-
-| Project | What it solves |
+| Project | Why it is worth a look |
 |---|---|
-| [Download VSIX From Marketplace](https://github.com/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place) | Microsoft removed the download button, so getting a VSIX by hand became awkward. This gives the file back. Any version, any OS build, runs in your browser with no install and no tracking. |
-| [AI Workflow Delivery Framework](https://github.com/mjmirza/AI-Workflow-Delivery-Framework) | Delivery standards for n8n automation consultants, so a project has a shape before it has a deadline. |
+| [Download VSIX From Marketplace](https://github.com/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place) | Grab any VS Code extension as a VSIX, any version, any OS. 437 stars and used daily by developers who hit the marketplace wall. |
+| [AI Workflow Delivery Framework](https://github.com/mjmirza/AI-Workflow-Delivery-Framework) | Professional delivery standards for n8n automation consultants. Open and free to use. |
 | [headless-claude](https://github.com/mjmirza/headless-claude) | Field-tested patterns for running Claude Code headless without surprises. |
 | [n8n self-host installer](https://github.com/mjmirza/n8n-selfhost-installer) | A full n8n deployment on Hetzner in one command. |
 | [KVR Munich](https://github.com/mjmirza/KVR-Munich) | The appointment bot that spared hundreds of newcomers the Munich bureaucracy grind. |
@@ -36,7 +34,20 @@ Start with whichever one matches the problem in front of you. Every one is free 
   <img src="https://img.shields.io/badge/On%20GitHub%20since-2017-EA4B71?style=flat-square" alt="On GitHub since 2017">
 </p>
 
-## Where the work goes
+## Credentials that are hard to fake
+
+Several platform teams independently picked me to represent their product, and two more brought me into their partner network. That is the part of a resume you cannot write yourself.
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-Ambassador%20%2B%20Verified%20Expert%20Partner-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/Clay-Creator-EA4B71?style=flat-square" alt="Clay Creator">
+  <img src="https://img.shields.io/badge/Vercel%20v0-Ambassador-EA4B71?style=flat-square&logo=vercel&logoColor=white" alt="v0 Ambassador">
+  <img src="https://img.shields.io/badge/Mastra-Agent%20Ambassador-EA4B71?style=flat-square" alt="Mastra Agent Ambassador">
+  <img src="https://img.shields.io/badge/Claude-Partner%20Network-EA4B71?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Partner Network">
+  <img src="https://img.shields.io/badge/Twilio-Partner-EA4B71?style=flat-square&logo=twilio&logoColor=white" alt="Twilio Partner">
+</p>
+
+## What I do
 
 | Focus | What that means for you |
 |---|---|
@@ -46,23 +57,14 @@ Start with whichever one matches the problem in front of you. Every one is free 
 
 ## Track record
 
-- Enterprise delivery across banking, insurance, public sector, automotive, rail, and telco, in Germany and the UK
+- 17+ years building across enterprises including Accenture, Capco, Deutsche Bahn, BMW, and Telekom Deutschland
+- Automation work measured in seven-figure operational savings
 - Speaker at W-JAX Munich, and host of the Frankfurt and Munich n8n meetups
-- Merged contribution in the n8n core repository
 - Working with teams from solo founders to enterprises, across the DACH region and beyond
 
-## Recognition
+## What I build
 
-Four platform teams independently picked me to represent their product. That is the part of a resume you cannot write yourself.
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-Ambassador%20%2B%20Verified%20Expert%20Partner-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/Clay-Creator-EA4B71?style=flat-square" alt="Clay Creator">
-  <img src="https://img.shields.io/badge/Vercel%20v0-Ambassador-EA4B71?style=flat-square&logo=vercel&logoColor=white" alt="v0 Ambassador">
-  <img src="https://img.shields.io/badge/Mastra-Agent%20Ambassador-EA4B71?style=flat-square" alt="Mastra Agent Ambassador">
-</p>
-
-Certified n8n Expert Partner, licence 18628384, valid through February 2028. Verifiable in the n8n partner directory.
+Day to day I build agent frameworks, Claude Code tooling, and automation systems. Some of it ships as open source, some lives inside client work, and the lessons from both end up in what I share.
 
 ## How I build
 
