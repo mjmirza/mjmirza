@@ -1,3 +1,5 @@
+[![OpenRoots ORA 2.3](https://openroots.org/badge/ora.svg)](https://openroots.org/licenses/ora/2.3)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=900&color=24292E&center=true&vCenter=true&width=940&height=120&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mirza!;I+build+automation+and+AI+agents+in+the+open;n8n+Ambassador+and+Verified+Expert+Partner;Clay+Creator+%7C+v0+Ambassador+%7C+Mastra+Agent+Ambassador;Claude+Partner+Network+and+Twilio+Partner;Patterns+that+survive+production%2C+minus+the+hype" alt="Mirza Iqbal">
 </p>
