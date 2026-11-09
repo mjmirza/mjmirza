@@ -1,6 +1,10 @@
 [![OpenRoots ORA 2.3](https://openroots.org/badge/ora.svg)](https://openroots.org/licenses/ora/2.3)
 
 <p align="center">
+  <img src="./assets/mirza.jpg" width="148" alt="Mirza Iqbal">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=900&color=24292E&center=true&vCenter=true&width=940&height=120&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mirza!;I+build+automation+and+AI+agents+in+the+open;n8n+Ambassador+and+Verified+Expert+Partner;Clay+Creator+%7C+v0+Ambassador+%7C+Mastra+Agent+Ambassador;Claude+Partner+Network+and+Twilio+Partner;Patterns+that+survive+production%2C+minus+the+hype" alt="Mirza Iqbal">
 </p>
 
@@ -52,6 +56,12 @@ Several platform teams independently picked me to represent their product, and t
   <img src="https://img.shields.io/badge/Twilio-Partner-EA4B71?style=flat-square&logo=twilio&logoColor=white" alt="Twilio Partner">
 </p>
 
+<p align="center">
+  <img src="./assets/openai-partner-badges.png" width="640" alt="OpenAI Partner University badges: API Expert, ChatGPT Expert, and Codex Expert">
+</p>
+
+OpenAI Partner University. API Expert, ChatGPT Expert, and Codex Expert.
+
 Certified n8n Expert Partner, licence 18628384, valid through February 2028. Code merged into the n8n core repository.
 
 ## What I do
@@ -75,8 +85,31 @@ Day to day I build agent frameworks, Claude Code tooling, and automation systems
 
 ## How I build
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,swift,react,tailwind,nodejs,postgres,mysql,mongodb,supabase,redis,docker,kubernetes,gcp,azure,vercel,terraform&theme=light&perline=9" alt="Stack">
+The agents sit on this machine. Each one has a job.
+
+| On this machine | How I use it |
+|---|---|
+| Claude Code | The coding agent I hand a task to. Headless when the job should finish without me watching. |
+| Codex | A second pass on the same change, before it ships. |
+| Grok | The long research thread, before the code starts. |
+| n8n | Orchestration. The process a team keeps after the project ends. |
+| OpenAI API | The model calls inside those workflows. ChatGPT is the workbench. The API is what ships. |
+| Mastra | TypeScript agents, when the agent is the product. |
+| Clay | The data behind outbound. Enrichment and research, then n8n carries it into the CRM. |
+| v0 | The first interface. Then I make it something a team can ship. |
+
+<p align="center">
+  <img src="./assets/logos/n8n.png" width="36" height="36" alt="n8n">
+  <img src="./assets/logos/claude.png" width="36" height="36" alt="Claude">
+  <img src="./assets/logos/anthropic.png" width="36" height="36" alt="Anthropic">
+  <img src="./assets/logos/vercel.png" width="36" height="36" alt="Vercel">
+  <img src="./assets/logos/typescript.png" width="36" height="36" alt="TypeScript">
+  <img src="./assets/logos/react.png" width="36" height="36" alt="React">
+  <img src="./assets/logos/python.png" width="36" height="36" alt="Python">
+  <img src="./assets/logos/swift.png" width="36" height="36" alt="Swift">
+  <img src="./assets/logos/postgresql.png" width="36" height="36" alt="PostgreSQL">
+  <img src="./assets/logos/supabase.png" width="36" height="36" alt="Supabase">
+  <img src="./assets/logos/docker.png" width="36" height="36" alt="Docker">
 </p>
 
 n8n for orchestration. Claude Code and the Anthropic stack for agents. TypeScript and React on the web. Python for data and automation. Swift when it needs to live on iOS. Postgres and Supabase underneath, shipped on Vercel and the major clouds.
