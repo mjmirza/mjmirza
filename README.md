@@ -93,8 +93,15 @@ The agents sit on this machine. Each one has a job.
 | Mastra | TypeScript agents, when the agent is the product. |
 | Clay | The data behind outbound. Enrichment and research, then n8n carries it into the CRM. |
 | v0 | The first interface. Then I make it something a team can ship. |
+| APIs | If a system speaks, I can put it in the workflow. REST, webhooks, and the ERP that only documents half of its endpoints. |
+| MCP | The way an agent reaches a live system. I publish the servers. Hetzner and Xentral are on npm. |
+| npm | Community nodes under nex8n. Xentral, ClickFunnels, DocuSign, Suno, and a PII redactor. |
 
 <p align="center">
+  <img src="./assets/logos/cloudflare.png" width="36" height="36" alt="Cloudflare">
+  <img src="./assets/logos/aws.png" width="36" height="36" alt="AWS">
+  <img src="./assets/logos/azure.png" width="36" height="36" alt="Microsoft Azure">
+  <img src="./assets/logos/gcp.png" width="36" height="36" alt="Google Cloud">
   <img src="./assets/logos/n8n.png" width="36" height="36" alt="n8n">
   <img src="./assets/logos/claude.png" width="36" height="36" alt="Claude">
   <img src="./assets/logos/anthropic.png" width="36" height="36" alt="Anthropic">
@@ -104,11 +111,12 @@ The agents sit on this machine. Each one has a job.
   <img src="./assets/logos/python.png" width="36" height="36" alt="Python">
   <img src="./assets/logos/swift.png" width="36" height="36" alt="Swift">
   <img src="./assets/logos/postgresql.png" width="36" height="36" alt="PostgreSQL">
-  <img src="./assets/logos/supabase.png" width="36" height="36" alt="Supabase">
   <img src="./assets/logos/docker.png" width="36" height="36" alt="Docker">
+  <img src="./assets/logos/kubernetes.png" width="36" height="36" alt="Kubernetes">
+  <img src="./assets/logos/terraform.png" width="36" height="36" alt="Terraform">
 </p>
 
-n8n for orchestration. Claude Code and the Anthropic stack for agents. TypeScript and React on the web. Python for data and automation. Swift when it needs to live on iOS. Postgres and Supabase underneath, shipped on Vercel and the major clouds.
+n8n for orchestration. Claude Code and the Anthropic stack for agents. TypeScript and React on the web. Python for data and automation. Swift when it needs to live on iOS. Cloudflare in front. AWS, Azure, and Google Cloud for the estate that is already there, including the bank migrations. Postgres where the data has to last. Supabase when it is the right fit, not the default. Docker, Kubernetes, and Terraform when the workload has to scale.
 
 ## Where to start
 
