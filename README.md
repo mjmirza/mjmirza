@@ -16,22 +16,25 @@
 <h3 align="center">Most enterprise automation breaks the moment it meets the real world. I build the kind that does not.</h3>
 
 <p align="center">
-17+ years building software and automation for teams of every size, from solo founders to enterprises. I turn manual, error-prone processes into systems a team can trust, I build agent frameworks and Claude Code tooling, and I share what works so other people can skip the expensive lessons.
+17+ years building software and automation for teams of every size, from solo founders to enterprises. I turn manual, error-prone processes into systems a team can trust. I build agent frameworks and Claude Code tooling, and I share what works so other people can skip the expensive lessons.
 </p>
 
 ## What I build in the open
 
+The six repositories pinned on this profile.
+
 | Project | Why it is worth a look |
 |---|---|
-| [Download VSIX From Marketplace](https://github.com/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place) | Grab any VS Code extension as a VSIX, any version, any OS. 437 stars and used daily by developers who hit the marketplace wall. |
+| [Download VSIX From Marketplace](https://github.com/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place) | Grab any VS Code extension as a VSIX, any version, any OS. Used daily by developers who hit the marketplace wall. |
+| [App Store compliance](https://github.com/mjmirza/app-store-compliance) | The open playbook for App Store and Google Play rejections, plus a pre-submission guard an AI coding agent can run. |
 | [AI Workflow Delivery Framework](https://github.com/mjmirza/AI-Workflow-Delivery-Framework) | Professional delivery standards for n8n automation consultants. Open and free to use. |
+| [hetzner-mcp](https://github.com/mjmirza/hetzner-mcp) | The Hetzner platform as tools an AI assistant can call. Cloud, Storage Box, and dedicated servers, cost-guarded. |
+| [patterns](https://github.com/mjmirza/patterns) | A software-patterns reference. Eighteen dimensions on every entry, every claim cited. |
 | [headless-claude](https://github.com/mjmirza/headless-claude) | Field-tested patterns for running Claude Code headless without surprises. |
-| [n8n self-host installer](https://github.com/mjmirza/n8n-selfhost-installer) | A full n8n deployment on Hetzner in one command. |
-| [KVR Munich](https://github.com/mjmirza/KVR-Munich) | The appointment bot that spared hundreds of newcomers the Munich bureaucracy grind. |
-| [Discrimination complaint guide, Germany](https://github.com/mjmirza/file-discrimination-complaint-germany) | A free bilingual guide for anyone who needs to stand their ground. |
 
 <p>
-  <img src="https://img.shields.io/github/stars/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place?style=flat-square&color=EA4B71&label=stars%20on%20one%20tool" alt="Stars on one tool">
+  <img src="https://img.shields.io/github/stars/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place?style=flat-square&color=EA4B71&label=VSIX%20tool" alt="Stars on the VSIX tool">
+  <img src="https://img.shields.io/github/stars/mjmirza/app-store-compliance?style=flat-square&color=EA4B71&label=App%20Store%20playbook" alt="Stars on the App Store playbook">
   <img src="https://img.shields.io/github/followers/mjmirza?style=flat-square&color=EA4B71&label=followers" alt="Followers">
   <img src="https://img.shields.io/badge/On%20GitHub%20since-2017-EA4B71?style=flat-square" alt="On GitHub since 2017">
 </p>
@@ -49,6 +52,8 @@ Several platform teams independently picked me to represent their product, and t
   <img src="https://img.shields.io/badge/Twilio-Partner-EA4B71?style=flat-square&logo=twilio&logoColor=white" alt="Twilio Partner">
 </p>
 
+Certified n8n Expert Partner, licence 18628384, valid through February 2028. Code merged into the n8n core repository.
+
 ## What I do
 
 | Focus | What that means for you |
@@ -61,12 +66,12 @@ Several platform teams independently picked me to represent their product, and t
 
 - 17+ years building across enterprises including Accenture, Capco, Deutsche Bahn, BMW, and Telekom Deutschland
 - Automation work measured in seven-figure operational savings
-- Speaker at W-JAX Munich, and host of the Frankfurt and Munich n8n meetups
+- Speaker at W-JAX Munich. Host of the Frankfurt and Munich n8n meetups, and of Clay Club Frankfurt.
 - Working with teams from solo founders to enterprises, across the DACH region and beyond
 
 ## What I build
 
-Day to day I build agent frameworks, Claude Code tooling, and automation systems. Some of it ships as open source, some lives inside client work, and the lessons from both end up in what I share.
+Day to day I build agent frameworks, Claude Code tooling, and automation systems. The public half is the table above. The rest lives inside client work, and the lessons from both end up in what I share.
 
 ## How I build
 
