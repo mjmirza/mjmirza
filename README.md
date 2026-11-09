@@ -77,11 +77,11 @@ Certified n8n Expert Partner, licence 18628384, valid through February 2028. Cod
 
 ## What I build
 
-Day to day I build agent frameworks, Claude Code tooling, and automation systems. The public half is the table above. The rest lives inside client work, and the lessons from both end up in what I share.
+Automation is the core skill. The agents, the clouds, and the models sit on top of it. The public half is the table above. The rest lives inside client work, and the lessons from both end up in what I share.
 
 ## How I build
 
-Give me the constraint. I have shipped the edge, the cloud, the data, the product, and the API between them.
+Automation is the mastery. Give me the constraint. I have shipped the edge, the cloud, the data, the product, and the API between them. The stack is whatever is already in production. I am not attached to one vendor.
 
 The agents sit on this machine. Each one has a job.
 
@@ -90,8 +90,8 @@ The agents sit on this machine. Each one has a job.
 | Claude Code | The coding agent I hand a task to. Headless when the job should finish without me watching. |
 | Codex | A second pass on the same change, before it ships. |
 | Grok | The long research thread, before the code starts. |
-| n8n | Orchestration. The process a team keeps after the project ends. |
-| OpenAI API | The model calls inside those workflows. ChatGPT is the workbench. The API is what ships. |
+| n8n | The core skill, in a tool. Orchestration a team keeps after the project ends. |
+| Models | OpenAI and Anthropic on this machine. DeepSeek, Qwen, Zhipu GLM, Kimi, and MiniMax when the job, the price, or the data residency says so. The other major Chinese labs speak the same API, so they land in the same workflow. |
 | Mastra | TypeScript agents, when the agent is the product. |
 | Clay | The data behind outbound. Enrichment and research, then n8n carries it into the CRM. |
 | v0 | The first interface. Then I make it something a team can ship. |
@@ -112,6 +112,15 @@ The agents sit on this machine. Each one has a job.
   <img src="./assets/logos/docker.png" width="36" height="36" alt="Docker">
   <img src="./assets/logos/kubernetes.png" width="36" height="36" alt="Kubernetes">
   <img src="./assets/logos/terraform.png" width="36" height="36" alt="Terraform">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/deepseek.png" width="36" height="36" alt="DeepSeek">
+  <img src="./assets/logos/qwen.png" width="36" height="36" alt="Qwen">
+  <img src="./assets/logos/glm.png" width="36" height="36" alt="Zhipu GLM">
+  <img src="./assets/logos/kimi.png" width="36" height="36" alt="Kimi">
+  <img src="./assets/logos/minimax.png" width="36" height="36" alt="MiniMax">
+  <img src="./assets/logos/openrouter.png" width="36" height="36" alt="OpenRouter">
 </p>
 
 <p align="center">
@@ -137,7 +146,7 @@ The agents sit on this machine. Each one has a job.
   <img src="./assets/logos/bash.png" width="36" height="36" alt="Bash">
 </p>
 
-n8n for orchestration. Claude Code and the Anthropic stack for agents. TypeScript, Next.js, and React on the web. Python for data and automation. Swift when it needs to live on Apple platforms. Cloudflare in front. AWS, Azure, or Google Cloud behind it, including the bank migrations. Postgres, MySQL, or Redis where the data has to last. Linux, Docker, Kubernetes, and Terraform when it has to scale. The piece in the middle is an API, an MCP server, or an n8n node. I have shipped all three.
+n8n for orchestration. Claude Code and the Anthropic stack for agents. TypeScript, Next.js, and React on the web. Python for data and automation. Swift when it needs to live on Apple platforms. Cloudflare in front. AWS, Azure, or Google Cloud behind it, including the bank migrations. Postgres, MySQL, or Redis where the data has to last. Linux, Docker, Kubernetes, and Terraform when it has to scale. The piece in the middle is an API, an MCP server, or an n8n node. I have shipped all three. The model is a choice. OpenAI, Anthropic, DeepSeek, Qwen, Zhipu GLM, Kimi, MiniMax, or the next lab that speaks the same API.
 
 ## Where to start
 
