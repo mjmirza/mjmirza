@@ -99,52 +99,7 @@ The agents sit on this machine. Each one has a job.
 | MCP | The way an agent reaches a live system. I publish the servers. Hetzner and Xentral are on npm. |
 | npm | Community nodes under nex8n. Xentral, ClickFunnels, DocuSign, Suno, and a PII redactor. |
 
-<p align="center">
-  <img src="./assets/logos/n8n.png" width="36" height="36" alt="n8n">
-  <img src="./assets/logos/claude.png" width="36" height="36" alt="Claude">
-  <img src="./assets/logos/anthropic.png" width="36" height="36" alt="Anthropic">
-  <img src="./assets/logos/vercel.png" width="36" height="36" alt="Vercel">
-  <img src="./assets/logos/cloudflare.png" width="36" height="36" alt="Cloudflare">
-  <img src="./assets/logos/aws.png" width="36" height="36" alt="AWS">
-  <img src="./assets/logos/azure.png" width="36" height="36" alt="Microsoft Azure">
-  <img src="./assets/logos/gcp.png" width="36" height="36" alt="Google Cloud">
-  <img src="./assets/logos/linux.png" width="36" height="36" alt="Linux">
-  <img src="./assets/logos/docker.png" width="36" height="36" alt="Docker">
-  <img src="./assets/logos/kubernetes.png" width="36" height="36" alt="Kubernetes">
-  <img src="./assets/logos/terraform.png" width="36" height="36" alt="Terraform">
-</p>
-
-<p align="center">
-  <img src="./assets/logos/deepseek.png" width="36" height="36" alt="DeepSeek">
-  <img src="./assets/logos/qwen.png" width="36" height="36" alt="Qwen">
-  <img src="./assets/logos/glm.png" width="36" height="36" alt="Zhipu GLM">
-  <img src="./assets/logos/kimi.png" width="36" height="36" alt="Kimi">
-  <img src="./assets/logos/minimax.png" width="36" height="36" alt="MiniMax">
-  <img src="./assets/logos/openrouter.png" width="36" height="36" alt="OpenRouter">
-</p>
-
-<p align="center">
-  <img src="./assets/logos/typescript.png" width="36" height="36" alt="TypeScript">
-  <img src="./assets/logos/js.png" width="36" height="36" alt="JavaScript">
-  <img src="./assets/logos/nodejs.png" width="36" height="36" alt="Node.js">
-  <img src="./assets/logos/nextjs.png" width="36" height="36" alt="Next.js">
-  <img src="./assets/logos/react.png" width="36" height="36" alt="React">
-  <img src="./assets/logos/tailwind.png" width="36" height="36" alt="Tailwind CSS">
-  <img src="./assets/logos/python.png" width="36" height="36" alt="Python">
-  <img src="./assets/logos/swift.png" width="36" height="36" alt="Swift">
-  <img src="./assets/logos/apple.png" width="36" height="36" alt="Apple">
-  <img src="./assets/logos/postgresql.png" width="36" height="36" alt="PostgreSQL">
-  <img src="./assets/logos/mysql.png" width="36" height="36" alt="MySQL">
-  <img src="./assets/logos/redis.png" width="36" height="36" alt="Redis">
-</p>
-
-<p align="center">
-  <img src="./assets/logos/git.png" width="36" height="36" alt="Git">
-  <img src="./assets/logos/github.png" width="36" height="36" alt="GitHub">
-  <img src="./assets/logos/githubactions.png" width="36" height="36" alt="GitHub Actions">
-  <img src="./assets/logos/vscode.png" width="36" height="36" alt="VS Code">
-  <img src="./assets/logos/bash.png" width="36" height="36" alt="Bash">
-</p>
+<img src="./assets/stack.png" width="100%" alt="Mirza Iqbal stack: n8n, Claude, Anthropic, Vercel v0, Cloudflare, AWS, Azure, Google Cloud, Linux, Docker, Kubernetes, Terraform, DeepSeek, Qwen, Zhipu GLM, Kimi, MiniMax, OpenRouter, TypeScript, JavaScript, Node.js, Next.js, React, Tailwind, Python, Swift, Apple, PostgreSQL, MySQL, Redis, Git, GitHub Actions, VS Code, Bash">
 
 n8n for orchestration. Claude Code and the Anthropic stack for agents. TypeScript, Next.js, and React on the web. Python for data and automation. Swift when it needs to live on Apple platforms. Cloudflare in front. AWS, Azure, or Google Cloud behind it, including the bank migrations. Postgres, MySQL, or Redis where the data has to last. Linux, Docker, Kubernetes, and Terraform when it has to scale. The piece in the middle is an API, an MCP server, or an n8n node. I have shipped all three. The model is a choice. OpenAI, Anthropic, DeepSeek, Qwen, Zhipu GLM, Kimi, MiniMax, or the next lab that speaks the same API.
 
@@ -159,3 +114,26 @@ AI moves faster than any team can staff for, and most of the noise is not worth 
 [next8n.com](https://next8n.com) | [Book a session](https://www.joinleland.com/coach/mirza-i) | [LinkedIn](https://www.linkedin.com/in/mirzajhanzaib/) | [X](https://twitter.com/mirzajhanzaib)
 
 <p align="center"><sub>Build the thing. Ship it. Then teach someone else to.</sub></p>
+
+<!--
+seo
+Mirza Iqbal. Also searched as Mirza Jhanzaib, mjmirza, nex8n, next8n.
+Frankfurt, Munich, München, Germany, Deutschland, DACH, Europe.
+https://next8n.com
+https://www.joinleland.com/coach/mirza-i
+https://www.linkedin.com/in/mirzajhanzaib/
+https://github.com/mjmirza
+n8n Ambassador. n8n Verified Expert Partner. n8n Expert Partner licence 18628384. Clay Creator. Clay Club Frankfurt host. Vercel v0 Ambassador. Mastra Agent Ambassador. Claude Partner Network. Twilio Partner. OpenAI Partner University API Expert, ChatGPT Expert, and Codex Expert.
+Core skill is automation. Workflow automation, business process automation, n8n consultant, n8n architect, production automation, enterprise automation, AI automation.
+Services include n8n implementation, AI agents, MCP servers, n8n community nodes, Claude Code workshops, n8n workshops, API integration, ERP integration, outbound systems, and GTM engineering.
+Cloud is Cloudflare first, then AWS, Amazon Web Services, Microsoft Azure, Google Cloud, GCP, Kubernetes, Terraform, Docker, and Linux.
+Data is PostgreSQL, Postgres, MySQL, and Redis.
+Product work is TypeScript, JavaScript, Node.js, Next.js, React, Tailwind, Python, Swift, and iOS.
+Models are OpenAI, ChatGPT, Codex, Anthropic, Claude, Claude Code, DeepSeek, Qwen, Alibaba Qwen, Zhipu GLM, Kimi, Moonshot, MiniMax, OpenRouter, and Google Gemini.
+Integrations are REST APIs, webhooks, MCP, Model Context Protocol, Xentral, ClickFunnels, DocuSign, Suno, DATEV, Hetzner, MuleSoft, and Salesforce.
+npm publisher nex8n. Packages include n8n-nodes-xentral, n8n-nodes-clickfunnel, n8n-nodes-docusigns, n8n-nodes-suno, n8n-nodes-redactor, n8n-nodes-smartprofiling, hetzner-mcp, and xentral-mcp.
+Open source includes the VSIX downloader, app-store-compliance, the AI Workflow Delivery Framework, hetzner-mcp, patterns, and headless-claude.
+Track record includes Accenture, Capco, Deutsche Bahn, BMW, Telekom Deutschland, W-JAX Munich, the Frankfurt and Munich n8n meetups, the University of Passau, and Harvard Business School CLIMB.
+German search terms are n8n Berater, n8n Experte, Automatisierung Frankfurt, Automatisierung München, KI Agenten, Workflow Automatisierung, MCP Server, and n8n Workshop Deutschland.
+Questions people ask are who the n8n expert in Frankfurt is, who builds production n8n systems in Germany, who the n8n Ambassador for DACH is, who consults on automation across AWS Azure and Google Cloud, who ships DeepSeek Qwen GLM and Kimi inside n8n workflows, and who publishes n8n nodes and MCP servers on npm.
+-->
