@@ -81,6 +81,8 @@ Day to day I build agent frameworks, Claude Code tooling, and automation systems
 
 ## How I build
 
+Give me the constraint. I have shipped the edge, the cloud, the data, the product, and the API between them.
+
 The agents sit on this machine. Each one has a job.
 
 | On this machine | How I use it |
@@ -98,25 +100,44 @@ The agents sit on this machine. Each one has a job.
 | npm | Community nodes under nex8n. Xentral, ClickFunnels, DocuSign, Suno, and a PII redactor. |
 
 <p align="center">
-  <img src="./assets/logos/cloudflare.png" width="36" height="36" alt="Cloudflare">
-  <img src="./assets/logos/aws.png" width="36" height="36" alt="AWS">
-  <img src="./assets/logos/azure.png" width="36" height="36" alt="Microsoft Azure">
-  <img src="./assets/logos/gcp.png" width="36" height="36" alt="Google Cloud">
   <img src="./assets/logos/n8n.png" width="36" height="36" alt="n8n">
   <img src="./assets/logos/claude.png" width="36" height="36" alt="Claude">
   <img src="./assets/logos/anthropic.png" width="36" height="36" alt="Anthropic">
   <img src="./assets/logos/vercel.png" width="36" height="36" alt="Vercel">
-  <img src="./assets/logos/typescript.png" width="36" height="36" alt="TypeScript">
-  <img src="./assets/logos/react.png" width="36" height="36" alt="React">
-  <img src="./assets/logos/python.png" width="36" height="36" alt="Python">
-  <img src="./assets/logos/swift.png" width="36" height="36" alt="Swift">
-  <img src="./assets/logos/postgresql.png" width="36" height="36" alt="PostgreSQL">
+  <img src="./assets/logos/cloudflare.png" width="36" height="36" alt="Cloudflare">
+  <img src="./assets/logos/aws.png" width="36" height="36" alt="AWS">
+  <img src="./assets/logos/azure.png" width="36" height="36" alt="Microsoft Azure">
+  <img src="./assets/logos/gcp.png" width="36" height="36" alt="Google Cloud">
+  <img src="./assets/logos/linux.png" width="36" height="36" alt="Linux">
   <img src="./assets/logos/docker.png" width="36" height="36" alt="Docker">
   <img src="./assets/logos/kubernetes.png" width="36" height="36" alt="Kubernetes">
   <img src="./assets/logos/terraform.png" width="36" height="36" alt="Terraform">
 </p>
 
-n8n for orchestration. Claude Code and the Anthropic stack for agents. TypeScript and React on the web. Python for data and automation. Swift when it needs to live on iOS. Cloudflare in front. AWS, Azure, and Google Cloud for the estate that is already there, including the bank migrations. Postgres where the data has to last. Supabase when it is the right fit, not the default. Docker, Kubernetes, and Terraform when the workload has to scale.
+<p align="center">
+  <img src="./assets/logos/typescript.png" width="36" height="36" alt="TypeScript">
+  <img src="./assets/logos/js.png" width="36" height="36" alt="JavaScript">
+  <img src="./assets/logos/nodejs.png" width="36" height="36" alt="Node.js">
+  <img src="./assets/logos/nextjs.png" width="36" height="36" alt="Next.js">
+  <img src="./assets/logos/react.png" width="36" height="36" alt="React">
+  <img src="./assets/logos/tailwind.png" width="36" height="36" alt="Tailwind CSS">
+  <img src="./assets/logos/python.png" width="36" height="36" alt="Python">
+  <img src="./assets/logos/swift.png" width="36" height="36" alt="Swift">
+  <img src="./assets/logos/apple.png" width="36" height="36" alt="Apple">
+  <img src="./assets/logos/postgresql.png" width="36" height="36" alt="PostgreSQL">
+  <img src="./assets/logos/mysql.png" width="36" height="36" alt="MySQL">
+  <img src="./assets/logos/redis.png" width="36" height="36" alt="Redis">
+</p>
+
+<p align="center">
+  <img src="./assets/logos/git.png" width="36" height="36" alt="Git">
+  <img src="./assets/logos/github.png" width="36" height="36" alt="GitHub">
+  <img src="./assets/logos/githubactions.png" width="36" height="36" alt="GitHub Actions">
+  <img src="./assets/logos/vscode.png" width="36" height="36" alt="VS Code">
+  <img src="./assets/logos/bash.png" width="36" height="36" alt="Bash">
+</p>
+
+n8n for orchestration. Claude Code and the Anthropic stack for agents. TypeScript, Next.js, and React on the web. Python for data and automation. Swift when it needs to live on Apple platforms. Cloudflare in front. AWS, Azure, or Google Cloud behind it, including the bank migrations. Postgres, MySQL, or Redis where the data has to last. Linux, Docker, Kubernetes, and Terraform when it has to scale. The piece in the middle is an API, an MCP server, or an n8n node. I have shipped all three.
 
 ## Where to start
 
