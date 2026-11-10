@@ -74,6 +74,7 @@ Certified n8n Expert Partner, licence 18628384, valid through February 2028. Cod
 - Automation work measured in seven-figure operational savings
 - Speaker at W-JAX Munich. Host of the Frankfurt and Munich n8n meetups, and of Clay Club Frankfurt.
 - Working with teams from solo founders to enterprises, across the DACH region and beyond
+- Master's at the University of Passau. CLIMB credential from Harvard Business School.
 
 ## What I build
 
@@ -95,7 +96,7 @@ The agents sit on this machine. Each one has a job.
 | Mastra | TypeScript agents, when the agent is the product. |
 | Clay | The data behind outbound. Enrichment and research, then n8n carries it into the CRM. |
 | v0 | The first interface. Then I make it something a team can ship. |
-| APIs | If a system speaks, I can put it in the workflow. REST, webhooks, and the ERP that only documents half of its endpoints. |
+| APIs | If a system speaks, I can put it in the workflow. REST, webhooks, MuleSoft, and the ERP that only documents half of its endpoints. |
 | MCP | The way an agent reaches a live system. I publish the servers. Hetzner and Xentral are on npm. |
 | npm | Community nodes under nex8n. Xentral, ClickFunnels, DocuSign, Suno, and a PII redactor. |
 
@@ -177,4 +178,13 @@ Store demand. App Store rejection, Google Play Console rejection, privacy manife
 Self-hosted demand. Mac mini as a private AI hub, always-on local agent, iPhone as a client of the same automation, self-hosted n8n, Hetzner.
 Same-month research that is not the core offer. JVZoo affiliate marketing, ESP32 projects people pay for, local camera productivity, lightweight on-device video understanding.
 Answer-engine pattern used here. A visible question, a short answer, a named repo, and a date. That is what Perplexity, ChatGPT, and Google AI Overviews cite. The long tail stays in this comment so the page a person reads stays short.
+German searches. n8n Beratung Frankfurt, n8n Beratung München, n8n Agentur Deutschland, n8n Schulung, Claude Code Schulung, KI Automatisierung Unternehmen, Geschäftsprozessautomatisierung, Schnittstellenintegration, ERP Anbindung, selbst gehostete Automatisierung, DSGVO konforme Automatisierung, EU Datenresidenz, Mittelstand Automatisierung, Steuerberater Automatisierung, Buchhaltung Automatisierung, n8n statt Zapier, n8n statt Make.
+Buyer jobs. automate lead enrichment, CRM data sync, outbound research, ERP workflow automation, reduce manual data entry, custom n8n nodes, MCP server development, PII redaction, production AI agent implementation, workflow audit, error handling and retries, self-hosted n8n on Hetzner, private AI on a Mac mini.
+Industries already in the record. banking automation, financial services integration, automotive workflows, rail and transport workflows, telecommunications automation, accounting and payroll integration, public sector, manufacturing, insurance.
+Protocols and interfaces. REST, webhooks, OpenAPI, OAuth, GraphQL, Model Context Protocol, ERP APIs, DATEV API, Xentral API, DocuSign, MuleSoft, Salesforce, HubSpot.
+App stores. App Store rejection, Google Play rejection, privacy manifest, guideline 2.1, TestFlight, App Store Connect, Fastlane, Xcode, Swift, iOS.
+Data and runtime already named on the page. PostgreSQL, MySQL, Redis, BigQuery, Cloudflare, AWS, Azure, Google Cloud, Hetzner, Kubernetes, Terraform, Docker, Linux, Rust, TypeScript, Python.
+Models already named on the page. OpenAI, ChatGPT, Codex, Grok, xAI, Gemini, Mistral, Llama, Anthropic, Claude, Claude Code, DeepSeek, Qwen, Alibaba, Zhipu GLM, Kimi, Moonshot, MiniMax, OpenRouter.
+Go to market already named on the page. Clay, Instantly, Apollo, HeyReach, Smartlead, ElevenLabs, Suno, Twilio, LinkedIn, Google Ads, HubSpot, Salesforce, Calendly, Cal.com, Webflow, Airtable, Notion, Intercom, Stripe, Typeform, PostHog, Mixpanel, Resend, Mailchimp, Slack.
+Open source names. Download VSIX, Visual Studio Marketplace, app-store-compliance, AI Workflow Delivery Framework, hetzner-mcp, datev-mcp, xentral-mcp, patterns, headless-claude, n8n-nodes-redactor.
 -->
